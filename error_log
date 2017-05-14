@@ -1,0 +1,13 @@
+[07-Feb-2017 17:00:04 America/Chicago] PHP Warning:  fopen(photos/_20170208065945.png): failed to open stream: No such file or directory in /home1/kennetha/public_html/econcern/photo.php on line 13
+[07-Feb-2017 17:00:04 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/kennetha/public_html/econcern/photo.php on line 16
+[07-Feb-2017 17:00:04 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/kennetha/public_html/econcern/photo.php on line 17
+[08-Feb-2017 21:27:05 America/Chicago] PHP Warning:  fopen(photos/_20170209112621.png): failed to open stream: No such file or directory in /home1/kennetha/public_html/econcern/photo.php on line 13
+[08-Feb-2017 21:27:05 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/kennetha/public_html/econcern/photo.php on line 16
+[08-Feb-2017 21:27:05 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/kennetha/public_html/econcern/photo.php on line 17
+[08-Feb-2017 21:27:08 America/Chicago] PHP Warning:  fopen(photos/_20170209112621.png): failed to open stream: No such file or directory in /home1/kennetha/public_html/econcern/photo.php on line 13
+[08-Feb-2017 21:27:08 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/kennetha/public_html/econcern/photo.php on line 16
+[08-Feb-2017 21:27:08 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/kennetha/public_html/econcern/photo.php on line 17
+[05-Mar-2017 02:16:33 America/Chicago] PHP Parse error:  syntax error, unexpected 'password' (T_STRING), expecting ')' in /home1/kennetha/public_html/econcern/application/config/database.php on line 80
+[08-Mar-2017 08:06:04 America/Chicago] PHP Parse error:  syntax error, unexpected 'ID' (T_STRING) in /home1/kennetha/public_html/econcern/login.php on line 6
+[23-Mar-2017 02:05:46 America/Chicago] PHP Warning:  fopen(photos/): failed to open stream: Is a directory in /home1/kennetha/public_html/econcern/photo.php on line 13
+[23-Mar-2017 02:06:29 America/Chicago] PHP Warning:  fopen(photos/): failed to open stream: Is a directory in /home1/kennetha/public_html/econcern/photo.php on line 13
